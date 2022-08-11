@@ -5,7 +5,7 @@
 	filename: "other_generators"
 	title: "其他发电机"
 	icon: "mekanismgenerators:wind_generator"
-	subtitle: ["无论风能/燃气/热能，我们都有！"]
+	subtitle: ["无论是用风能/燃气/热能发电，我们都行！"]
 	default_quest_shape: "hexagon"
 	default_hide_dependency_lines: false
 	quests: [
