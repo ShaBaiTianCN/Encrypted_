@@ -5,7 +5,7 @@
 	filename: "wooden_storage"
 	title: "木质仓储"
 	icon: "minecraft:barrel"
-	subtitle: ["8GB内存"]
+	subtitle: ["8GB存储空间"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
