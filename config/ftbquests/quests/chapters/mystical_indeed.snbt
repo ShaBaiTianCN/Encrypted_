@@ -3,9 +3,9 @@
 	group: "72F9B62EED0FC7BC"
 	order_index: 3
 	filename: "mystical_indeed"
-	title: "Magicae "
+	title: "魔法师 "
 	icon: "bloodmagic:altar"
-	subtitle: ["Magic"]
+	subtitle: ["魔法"]
 	default_quest_shape: "circle"
 	default_hide_dependency_lines: false
 	quests: [
@@ -13,7 +13,7 @@
 			x: 9.0d
 			y: 4.0d
 			shape: "gear"
-			subtitle: "Blood infused ™"
+			subtitle: "注入血液™"
 			dependencies: ["2B0E65599245EAE3"]
 			size: 1.5d
 			id: "421E7B2D832C1345"
@@ -66,8 +66,8 @@
 			x: -1.5d
 			y: 9.5d
 			shape: "diamond"
-			subtitle: "Guide through Mana And Artifice"
-			description: ["Note: Mana and artifice's flowers can be found in the mining dimension"]
+			subtitle: "巧工魔艺指南"
+			description: ["注：你可以在挖矿维度找到巧工魔艺的花"]
 			dependencies: ["5851FF0B25F12972"]
 			size: 1.5d
 			id: "031F282A6C8C4E03"
@@ -87,7 +87,7 @@
 		{
 			x: 1.0d
 			y: 9.5d
-			description: ["can be found in the mining dimension"]
+			description: ["可以来挖矿维度找我"]
 			dependencies: ["031F282A6C8C4E03"]
 			id: "056198A5FF12A297"
 			tasks: [{
@@ -99,7 +99,7 @@
 		{
 			x: 3.5d
 			y: 9.5d
-			subtitle: "Vinteum ...tasty"
+			subtitle: "温特姆…美味！"
 			dependencies: ["056198A5FF12A297"]
 			id: "13896DBD5C483252"
 			tasks: [{
@@ -122,7 +122,7 @@
 		{
 			x: -1.5d
 			y: 11.5d
-			subtitle: "..."
+			subtitle: "…"
 			dependencies: ["031F282A6C8C4E03"]
 			id: "2D526616EA2BF077"
 			tasks: [{
@@ -138,7 +138,7 @@
 		{
 			x: -1.5d
 			y: 13.0d
-			subtitle: "more like a Furnace but not really"
+			subtitle: "是熔炉但不完全是"
 			dependencies: ["2D526616EA2BF077"]
 			id: "7E825F5FE0EEDFCC"
 			tasks: [{
@@ -150,7 +150,7 @@
 		{
 			x: -3.0d
 			y: 14.5d
-			subtitle: "ashs of arcane ?"
+			subtitle: "奥术的灰烬？"
 			dependencies: ["7E825F5FE0EEDFCC"]
 			id: "732FDB44932D68A9"
 			tasks: [{
@@ -162,7 +162,7 @@
 		{
 			x: 0.0d
 			y: 14.5d
-			subtitle: "HOT"
+			subtitle: "烫！！"
 			dependencies: ["7E825F5FE0EEDFCC"]
 			id: "700BC29ED3E9DBB0"
 			tasks: [{
@@ -174,7 +174,7 @@
 		{
 			x: 7.5d
 			y: 11.0d
-			subtitle: "fancy drawing"
+			subtitle: "精致的画（魔织）"
 			dependencies: ["4F2036A777DAF878"]
 			id: "378B712C7FC777DE"
 			tasks: [{
@@ -203,7 +203,7 @@
 		{
 			x: 11.0d
 			y: 12.5d
-			subtitle: "Crafting with shapes"
+			subtitle: "用画（魔织）制作"
 			dependencies: ["1B00F8AB2FCDA2A0"]
 			id: "32D00414C6FD5920"
 			tasks: [{
@@ -215,7 +215,7 @@
 		{
 			x: 6.0d
 			y: 12.5d
-			subtitle: "Silver but fake ?"
+			subtitle: "银，但是是假的？"
 			dependencies: ["378B712C7FC777DE"]
 			id: "7A52A82504A11AAF"
 			tasks: [{
@@ -260,7 +260,7 @@
 		{
 			x: -1.5d
 			y: 14.5d
-			subtitle: "When you brake bones..."
+			subtitle: "当你用骨头刹车…"
 			dependencies: ["7E825F5FE0EEDFCC"]
 			id: "571E97DA559F086C"
 			tasks: [{
@@ -272,7 +272,7 @@
 		{
 			x: -4.5d
 			y: 16.0d
-			subtitle: "better than ink sacs"
+			subtitle: "总比墨囊好"
 			dependencies: ["756745827AC1E9E7"]
 			dependency_requirement: "one_completed"
 			id: "603903F8C434E64D"
@@ -291,7 +291,7 @@
 		{
 			x: -3.0d
 			y: 19.0d
-			subtitle: "paper but for SPELLS"
+			subtitle: "编写（法术）用的纸！"
 			hide_dependency_lines: true
 			dependencies: ["031F282A6C8C4E03"]
 			id: "5828BCA2397E4C0B"
@@ -356,7 +356,7 @@
 			x: 16.0d
 			y: 9.25d
 			shape: "diamond"
-			subtitle: "Guide Through Mahou Tsukai"
+			subtitle: "魔法使指南"
 			size: 1.5d
 			id: "60695B92E5805C10"
 			tasks: [{
@@ -368,7 +368,7 @@
 		{
 			x: 16.0d
 			y: 11.5d
-			subtitle: "Self Sacrifice (maybe)"
+			subtitle: "自残（也许吧）"
 			dependencies: ["60695B92E5805C10"]
 			id: "065974BD524BEAFA"
 			tasks: [{
@@ -380,7 +380,7 @@
 		{
 			x: 16.0d
 			y: 13.0d
-			subtitle: "Where to put my blood ?"
+			subtitle: "把我的血放哪里？"
 			dependencies: ["065974BD524BEAFA"]
 			id: "415B7F3A45B019D1"
 			tasks: [{
@@ -390,10 +390,10 @@
 			}]
 		}
 		{
-			title: "Blood Mahoujin"
+			title: "血魔法阵"
 			x: 16.0d
 			y: 14.5d
-			subtitle: "Magic from Blood"
+			subtitle: "源于血的魔法"
 			dependencies: ["415B7F3A45B019D1"]
 			id: "64A9AA9C6064A943"
 			tasks: [{
@@ -408,7 +408,7 @@
 		{
 			x: 16.0d
 			y: 16.0d
-			subtitle: "Light"
+			subtitle: "光明"
 			dependencies: ["64A9AA9C6064A943"]
 			id: "67647F710700B425"
 			tasks: [{
@@ -433,7 +433,7 @@
 			x: 17.5d
 			y: 16.0d
 			shape: "pentagon"
-			subtitle: "Darkness"
+			subtitle: "黑暗"
 			dependencies: ["67647F710700B425"]
 			optional: true
 			id: "1F272D2605087FD8"
@@ -458,7 +458,7 @@
 		{
 			x: 3.5d
 			y: 4.0d
-			subtitle: "Bloody Magic"
+			subtitle: "血腥的魔法"
 			dependencies: [
 				"69A50449792F0965"
 				"13917EC28FAF93E5"
@@ -473,7 +473,7 @@
 		{
 			x: 1.0d
 			y: 4.0d
-			subtitle: "Technically it's not blood"
+			subtitle: "严格来说这不是血"
 			dependencies: ["5FE402368B5DB3D7"]
 			id: "69A50449792F0965"
 			tasks: [{
@@ -485,7 +485,7 @@
 		{
 			x: 1.0d
 			y: 5.5d
-			subtitle: "Would you like my blood ?"
+			subtitle: "你喜欢我的血吗？"
 			dependencies: ["5FE402368B5DB3D7"]
 			id: "13917EC28FAF93E5"
 			tasks: [{
