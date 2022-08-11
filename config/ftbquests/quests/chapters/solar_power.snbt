@@ -3,7 +3,7 @@
 	group: "77E4751E1C15C1F0"
 	order_index: 2
 	filename: "solar_power"
-	title: "Solar Power "
+	title: "太阳能"
 	icon: "mekanismgenerators:solar_generator"
 	subtitle: ["Lux Illumina_"]
 	default_quest_shape: "hexagon"
