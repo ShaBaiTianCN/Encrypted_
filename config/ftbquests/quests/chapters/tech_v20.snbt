@@ -3,16 +3,16 @@
 	group: "72F9B62EED0FC7BC"
 	order_index: 5
 	filename: "tech_v20"
-	title: "Tech v2.0"
+	title: "科技2.0"
 	icon: "thermal:machine_frame"
-	subtitle: ["More Machines"]
+	subtitle: ["更多机器"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
 			x: -2.0d
 			y: 0.25d
-			subtitle: "Steel Age"
+			subtitle: "钢铁时代"
 			dependencies: ["72B48F84CC2B5921"]
 			size: 2.0d
 			id: "4F64AF90B0DAFA35"
@@ -382,7 +382,7 @@
 			x: 10.0d
 			y: 0.0d
 			shape: "diamond"
-			subtitle: "Split elements into more new elements"
+			subtitle: "裂变元素以获取更多元素"
 			dependencies: [
 				"5886A0F062BAD812"
 				"7D4B54AACC4A3B46"
@@ -425,7 +425,7 @@
 			x: 10.0d
 			y: -2.0d
 			shape: "diamond"
-			subtitle: "Combine Elements to create EVEN more elements"
+			subtitle: "聚合元素以获取更多元素"
 			dependencies: [
 				"66F44AB4C8B40094"
 				"110F5E690AE8C6D0"
