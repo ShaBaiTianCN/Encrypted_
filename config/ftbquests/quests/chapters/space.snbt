@@ -3,20 +3,20 @@
 	group: "72F9B62EED0FC7BC"
 	order_index: 6
 	filename: "space"
-	title: "Outer Space "
+	title: "外太空"
 	icon: {
 		id: "beyond_earth:rocket_t3"
 		Count: 1b
 		tag: { }
 	}
-	subtitle: ["Sophisticated Simulations Indeed"]
+	subtitle: ["复杂的模拟"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
 			x: -4.0d
 			y: 0.0d
-			subtitle: "Bonk... Reincarnate"
+			subtitle: "砰……转世"
 			dependencies: ["398F18392F52A657"]
 			size: 1.25d
 			id: "0084593C9A165F9F"
@@ -29,7 +29,7 @@
 		{
 			x: -2.5d
 			y: 0.0d
-			subtitle: "Steel.zip"
+			subtitle: "钢.zip"
 			dependencies: ["0084593C9A165F9F"]
 			id: "1574DEDA555EA996"
 			tasks: [{
@@ -41,7 +41,7 @@
 		{
 			x: -1.0d
 			y: 0.0d
-			subtitle: "When NASA works..."
+			subtitle: "当NASA工作的时候……"
 			dependencies: ["1574DEDA555EA996"]
 			id: "2695E26BDBE6B682"
 			tasks: [{
@@ -53,7 +53,7 @@
 		{
 			x: -4.0d
 			y: 1.5d
-			subtitle: "Sucking the O2 dry"
+			subtitle: "吸尽氧气"
 			dependencies: ["398F18392F52A657"]
 			size: 1.25d
 			id: "361B97B2D078236D"
@@ -67,7 +67,7 @@
 			x: -6.75d
 			y: 0.75d
 			shape: "diamond"
-			subtitle: "S"
+			subtitle: "太空服"
 			dependencies: ["398F18392F52A657"]
 			size: 1.5d
 			id: "40834ABA2E223903"
@@ -87,7 +87,7 @@
 			x: -6.75d
 			y: -0.75d
 			shape: "diamond"
-			subtitle: "M"
+			subtitle: "氧气面罩"
 			dependencies: ["398F18392F52A657"]
 			size: 1.5d
 			id: "0A17C3B38E255B1F"
@@ -107,7 +107,7 @@
 			x: -6.75d
 			y: 2.25d
 			shape: "diamond"
-			subtitle: "P"
+			subtitle: "太空裤"
 			dependencies: ["398F18392F52A657"]
 			size: 1.5d
 			id: "40BE720AD3D9AA55"
@@ -127,7 +127,7 @@
 			x: -6.75d
 			y: 3.75d
 			shape: "diamond"
-			subtitle: "B"
+			subtitle: "太空靴"
 			dependencies: ["398F18392F52A657"]
 			size: 1.5d
 			id: "3D9CB4D8BFE68845"
@@ -146,7 +146,7 @@
 		{
 			x: -2.5d
 			y: 1.5d
-			subtitle: "One Oxygen Tank for the Road"
+			subtitle: "一个用于旅途中的氧气罐"
 			dependencies: ["361B97B2D078236D"]
 			id: "31F8F0EE00F7C2B9"
 			tasks: [{
@@ -158,7 +158,7 @@
 		{
 			x: -4.0d
 			y: 3.0d
-			subtitle: "Fill it up!"
+			subtitle: "填满它！"
 			dependencies: ["398F18392F52A657"]
 			size: 1.25d
 			id: "076B7BA0F794D482"
@@ -171,7 +171,7 @@
 		{
 			x: 1.5d
 			y: 0.0d
-			subtitle: "Pathetic Rocket"
+			subtitle: "劣质火箭"
 			dependencies: ["2695E26BDBE6B682"]
 			id: "66B019A8FDB227F1"
 			tasks: [{
@@ -187,7 +187,7 @@
 		{
 			x: 3.0d
 			y: 0.0d
-			subtitle: "Can be found on the moon"
+			subtitle: "可以在月球上发现"
 			dependencies: ["66B019A8FDB227F1"]
 			id: "5F9C092B8E70782E"
 			tasks: [{
@@ -199,7 +199,7 @@
 		{
 			x: 1.0d
 			y: 1.5d
-			subtitle: "Advanced Rocket"
+			subtitle: "高级火箭"
 			dependencies: [
 				"5F9C092B8E70782E"
 				"2695E26BDBE6B682"
@@ -218,7 +218,7 @@
 		{
 			x: 0.5d
 			y: 3.0d
-			subtitle: "Elite Rocket"
+			subtitle: "精英火箭"
 			dependencies: [
 				"667851E00A5A178E"
 				"2695E26BDBE6B682"
@@ -237,7 +237,7 @@
 		{
 			x: 0.0d
 			y: 4.5d
-			subtitle: "Ultimate Rocket"
+			subtitle: "终极火箭"
 			dependencies: [
 				"184B8217FE7868E3"
 				"2695E26BDBE6B682"
@@ -256,7 +256,7 @@
 		{
 			x: 2.5d
 			y: 1.5d
-			subtitle: "Can be found on Mars"
+			subtitle: "可以在火星上发现"
 			dependencies: ["578A584538A96852"]
 			id: "667851E00A5A178E"
 			tasks: [{
@@ -268,7 +268,7 @@
 		{
 			x: 2.0d
 			y: 3.0d
-			subtitle: "Can be found on Venus"
+			subtitle: "可以在金星上发现"
 			dependencies: ["51842EF6C65907F0"]
 			id: "184B8217FE7868E3"
 			tasks: [{
