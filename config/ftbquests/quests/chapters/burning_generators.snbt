@@ -3,28 +3,28 @@
 	group: "77E4751E1C15C1F0"
 	order_index: 0
 	filename: "burning_generators"
-	title: "Burning Generators"
+	title: "燃烧发电机"
 	icon: "irongenerators:infinity_generator"
-	subtitle: ["Burn And Earn"]
+	subtitle: ["燃烧，发电"]
 	default_quest_shape: "hexagon"
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Generators 101"
+			title: "发电101"
 			icon: "mekanism:upgrade_energy"
 			x: -1.5d
 			y: 0.0d
 			description: [
-				"These Genrators Burn Any Flamable Item to Generate RF/FE "
+				"这些发电机可以通过燃烧任何易燃物品生产RF/FE"
 				""
-				"Burn Time Is The same in all generators only the output (RF/t) of the generator is different"
+				"对于这些发电机，燃烧时间相同，但只是输出（RF/t）不同"
 			]
 			size: 1.5d
 			id: "2D24B45EAF3241EB"
 			tasks: [{
 				id: "3D573FB3F07B9EA6"
 				type: "checkmark"
-				title: "Burning Generators"
+				title: "燃烧发电机"
 			}]
 		}
 		{
@@ -139,7 +139,7 @@
 			x: 13.5d
 			y: 0.0d
 			subtitle: "65k RF/t"
-			description: ["Now This is Epic"]
+			description: ["现在来说，这已经是史诗级别的了"]
 			dependencies: ["787C93E386FB15C7"]
 			size: 1.5d
 			id: "0736712B6C8757EB"
@@ -250,7 +250,7 @@
 			x: -3.0d
 			y: 0.5d
 			subtitle: "1 RF/t"
-			description: ["The Nether Generator Requires Fire On top in order to work"]
+			description: ["下界岩发电机需要在其上方有一团燃烧的火才能工作"]
 			dependencies: ["2D24B45EAF3241EB"]
 			id: "52E6C71DDB2C01EA"
 			tasks: [{
