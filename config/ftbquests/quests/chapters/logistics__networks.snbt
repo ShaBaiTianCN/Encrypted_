@@ -3,7 +3,7 @@
 	group: "5508F37D906E5430"
 	order_index: 2
 	filename: "logistics__networks"
-	title: "Logistics \\& Networks_"
+	title: "物流\\&网络_"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
