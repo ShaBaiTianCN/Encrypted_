@@ -5,7 +5,7 @@
 	filename: "eof"
 	title: "EOF_"
 	icon: "extendedcrafting:ultimate_singularity"
-	subtitle: ["End Of File_ (Endgame)"]
+	subtitle: ["End Of File_ （游戏后期）"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -13,7 +13,7 @@
 			x: -0.5d
 			y: -0.5d
 			shape: "circle"
-			subtitle: "Chemical Singularity"
+			subtitle: "化学奇点"
 			dependencies: [
 				"0483E5DDB5A66C2C"
 				"12FE4B465745DDCC"
@@ -34,7 +34,7 @@
 			x: -1.5d
 			y: -0.5d
 			shape: "circle"
-			subtitle: "The Ultimate Chemistry Ingot"
+			subtitle: "终极化学锭"
 			dependencies: ["0483E5DDB5A66C2C"]
 			id: "37AFFA895333F003"
 			tasks: [{
@@ -69,7 +69,7 @@
 			x: -0.5d
 			y: 0.5d
 			shape: "rsquare"
-			subtitle: "still isn't enough"
+			subtitle: "还不够"
 			dependencies: [
 				"37AFFA895333F003"
 				"0C66E4BF00E56959"
@@ -296,7 +296,7 @@
 			x: -0.5d
 			y: 4.0d
 			shape: "circle"
-			subtitle: "gg"
+			subtitle: "游戏结束"
 			dependencies: [
 				"37CFE3C668E3D4C1"
 				"204EB50D482DC090"
@@ -357,7 +357,7 @@
 			x: 0.5d
 			y: -0.5d
 			shape: "circle"
-			subtitle: "when the..."
+			subtitle: "当……"
 			dependencies: ["45AF6470A6FD98CD"]
 			id: "6DE882C6A0204E58"
 			tasks: [{
