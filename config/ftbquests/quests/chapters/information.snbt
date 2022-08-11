@@ -5,7 +5,7 @@
 	filename: "information"
 	title: "Information_"
 	icon: "computercraft:printed_pages"
-	subtitle: ["Information(s)"]
+	subtitle: ["（几条）信息"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -15,7 +15,7 @@
 			y: 0.0d
 			shape: "hexagon"
 			subtitle: "> Start_"
-			description: ["Have fun :D"]
+			description: ["玩的开心 :D"]
 			dependencies: [
 				"7A3F27E8F5290BF4"
 				"6F096D3A1C21F9AC"
@@ -62,15 +62,15 @@
 			shape: "hexagon"
 			subtitle: "Encrypted_"
 			description: [
-				"\"Encrypted_\" is all about generating resources and making machines to help you get back to the real world"
+				"\"Encrypted_\" 整合包以生产资源并制造机器，最终帮助你回到真正的世界为目标。"
 				""
-				"Some Quests/recipe are subject to change !"
+				"一些任务和配方可能会有所变化！"
 			]
 			id: "7A3F27E8F5290BF4"
 			tasks: [{
 				id: "7F0AA04540256621"
 				type: "checkmark"
-				title: "About"
+				title: "关于"
 			}]
 			rewards: [{
 				id: "5C9A2233E3FAFBB7"
@@ -85,10 +85,10 @@
 			shape: "hexagon"
 			subtitle: ":3"
 			description: [
-				"Hi i am Crypt1C and my name is prenounced \"cryptic\""
+				"你们好，我是Crypt1C，我的名字预示着“神秘”"
 				""
-				"This is my first ever modpack so it's not THAT perfect "
-				"If You have any [issues/bugs] you can join the discord and i will try to help you out"
+				"这是我制作的第一个整合包，或许不是那么完美"
+				"如果你有任何的问题/错误，你可以加入Discord。我会尝试解决你的问题。"
 				""
 				"https://discord.gg/834pwJ9"
 			]
@@ -96,7 +96,7 @@
 			tasks: [{
 				id: "747A94A622949B39"
 				type: "checkmark"
-				title: "Contact"
+				title: "联系我"
 			}]
 			rewards: [{
 				id: "01751722F3A6B413"
@@ -109,22 +109,22 @@
 			x: -3.0d
 			y: 0.0d
 			shape: "hexagon"
-			subtitle: "A tragic accident"
+			subtitle: "一场悲剧"
 			description: [
-				"You are a Software Engineer who works at \"Krypt Tech.\""
+				"你是一位在“Krypt Tech.”公司工作的软件工程师。"
 				""
-				"After hard work, \"Krypt Tech.\" succeded at making a machine that can simulate reality. They called it \"SRSM\"."
+				"在辛勤工作之后，“Krypt Tech.”公司成功制造了一台可以模拟现实的机器。他们称它为“SRSM”。"
 				""
-				"One day, and while you were working on the \"SRSM\", It Developed a BUG_ that caused it to transport you to a whole new <simulated/> reality."
+				"一天，当你在研究“SRSM”时，它产生了一个BUG_，它把你带到了一个全新的<simulated/>现实。"
 				""
-				"Luckly, Your PocketComputer has the ability to write some code and inject it into this <simulated/> reality."
+				"幸运的是，你的掌上电脑在<simulated/>现实仍然有写代码的能力。"
 				""
 			]
 			id: "1BA70051AB238277"
 			tasks: [{
 				id: "11DB71BD622DCE83"
 				type: "checkmark"
-				title: "Story"
+				title: "背景故事"
 			}]
 			rewards: [{
 				id: "04DC3EC148D02981"
@@ -133,22 +133,22 @@
 			}]
 		}
 		{
-			title: "Read Me !"
+			title: "读我！"
 			icon: "allthemodium:unobtainium_gear"
 			x: -3.0d
 			y: -1.0d
 			shape: "hexagon"
-			subtitle: "Important Informations"
+			subtitle: "重要信息"
 			description: [
-				"1. Mobs Don't spawn At night time (cursed dirt farms work)"
+				"1、生物在夜晚不会自然生成（但在诅咒之土上仍会生成）"
 				""
-				"2. Encrypted Matter Can be obtained by [Crouching + Right Clicking] White Simulation Blocks"
+				"2、加密物质可以通过 [潜行键 + 右键点击] 模拟块的方式获得"
 				""
-				"3. Ultimine is installed "
+				"3、FTB Ultimine已安装"
 				""
-				"4. You can Twerk or sprint to grow saplings and plants"
+				"4、你可以跳电臀舞或是疾跑以加速树苗和植物的生长"
 				""
-				"5. White simulation blocks can be combined with other elements to make new colored variants"
+				"5、白色模拟块可以与其他元素混合以制作其他颜色的变体"
 			]
 			id: "38D3B9F26C4AF843"
 			tasks: [{
@@ -167,19 +167,19 @@
 			x: -2.5d
 			y: -2.0d
 			shape: "hexagon"
-			subtitle: "Moneyyyyyyyyyy"
+			subtitle: "钱~~~"
 			description: [
-				"CryptoCurrencies can be used to buy items from the Amadron from PNC:R"
+				"加密货币可用于在气动工艺模组的亚马龙处购买物品"
 				""
-				"Spend it wisely"
+				"理性消费"
 				""
-				"You can make your own currency using PNC:R Assembly line"
+				"你可以使用气动工艺模组装配线制作自己的货币"
 			]
 			id: "737E8188B3F1B769"
 			tasks: [{
 				id: "0E5AF66D0A6EC377"
 				type: "checkmark"
-				title: "Crypto Currency"
+				title: "加密货币"
 			}]
 			rewards: [
 				{
