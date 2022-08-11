@@ -139,7 +139,7 @@
 			x: 13.5d
 			y: 0.0d
 			subtitle: "65k RF/t"
-			description: ["现在来说，这已经是史诗级别的了"]
+			description: ["现在来说，这已经是史诗级别的发电机了"]
 			dependencies: ["787C93E386FB15C7"]
 			size: 1.5d
 			id: "0736712B6C8757EB"
