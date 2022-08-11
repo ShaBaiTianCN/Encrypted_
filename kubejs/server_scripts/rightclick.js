@@ -36,8 +36,8 @@ onEvent("item.right_click", event => {
   if (event.player.mainHandItem == yourItem) {
       if (!event.player.fake) {
           event.player.mainHandItem.count -= 1;
-          event.server.runCommandSilent(`execute at ${event.player.id} as ${event.player.id} run title @s title {"text":"\u25b6 Returning to Reality...","bold":true,"color":"aqua"}`)
-          event.server.runCommandSilent(`execute at ${event.player.id} as ${event.player.id} run title @s subtitle {"text":"You won ! GG","bold":true,"color":"dark_aqua"}`)
+          event.server.runCommandSilent(`execute at ${event.player.id} as ${event.player.id} run title @s title {"text":"\u25b6回归现实……","bold":true,"color":"aqua"}`)
+          event.server.runCommandSilent(`execute at ${event.player.id} as ${event.player.id} run title @s subtitle {"text":"你赢了！游戏结束！","bold":true,"color":"dark_aqua"}`)
           event.server.runCommandSilent(`execute at ${event.player.id} as ${event.player.id} run time set midnight`)
           event.server.runCommandSilent(`execute at ${event.player.id} as ${event.player.id} run summon minecraft:lightning_bolt ~ ~5 ~`)
           event.server.runCommandSilent(`execute at ${event.player.id} as ${event.player.id} run particle cofh_core:straight_arc ~ ~ ~ ~ ~ ~ 0 50 force`)
