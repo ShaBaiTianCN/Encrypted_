@@ -3,21 +3,21 @@
 	group: "10DB5C1CE56FDEE6"
 	order_index: 0
 	filename: "wooden_storage"
-	title: "Wooden Storage"
+	title: "木质仓储"
 	icon: "minecraft:barrel"
-	subtitle: ["8GB Storage"]
+	subtitle: ["8GB存储空间"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Chests"
+			title: "箱子"
 			x: 0.5d
 			y: -0.5d
 			id: "049471D4F42FACF9"
 			tasks: [{
 				id: "49719695B7EA47E5"
 				type: "item"
-				title: "Any #forge:chests/wooden"
+				title: "任何 #forge:chests/wooden"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -28,14 +28,14 @@
 			}]
 		}
 		{
-			title: "Drawers"
+			title: "抽屉"
 			x: 2.0d
 			y: -0.5d
 			id: "56902324D515512C"
 			tasks: [{
 				id: "7720AFBBC94B573D"
 				type: "item"
-				title: "Any #storagedrawers:drawers"
+				title: "任何 #storagedrawers:drawers"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -46,7 +46,7 @@
 			}]
 		}
 		{
-			title: "Framed Drawers"
+			title: "镶框抽屉"
 			x: 3.5d
 			y: -0.5d
 			dependencies: ["56902324D515512C"]
@@ -54,7 +54,7 @@
 			tasks: [{
 				id: "5C01B228DDAF3579"
 				type: "item"
-				title: "Any #framedcompactdrawers:frame_triple"
+				title: "任何 #framedcompactdrawers:frame_triple"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
