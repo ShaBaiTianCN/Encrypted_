@@ -3,9 +3,9 @@
 	group: "72F9B62EED0FC7BC"
 	order_index: 2
 	filename: "getting_thereeventually"
-	title: "Getting there...Eventually"
+	title: "最终……到达那里"
 	icon: "allthemodium:other_vibranium_ore"
-	subtitle: ["Eventually..."]
+	subtitle: ["终于……"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -13,8 +13,8 @@
 			x: -2.25d
 			y: -1.0d
 			shape: "hexagon"
-			subtitle: "hard as obsidian !"
-			description: ["Can be made in The Chemical Combiner"]
+			subtitle: "和黑曜石一样坚硬"
+			description: ["可在化学化合机中制作"]
 			dependencies: ["45F9F7691B5C82E1"]
 			size: 1.5d
 			id: "40CA56CFA5D73AA2"
@@ -39,19 +39,19 @@
 			]
 		}
 		{
-			title: "Visit The Nether"
+			title: "前往下界"
 			icon: "minecraft:crying_obsidian"
 			x: 3.0d
 			y: -2.5d
 			shape: "diamond"
-			subtitle: "Simply Hell "
+			subtitle: "只不过是地狱"
 			dependencies: ["1CE5BA6E10F229FE"]
 			size: 1.5d
 			id: "53EED331EF4B4736"
 			tasks: [{
 				id: "041649E54EFAD4A1"
 				type: "checkmark"
-				title: "Done"
+				title: "完成"
 			}]
 			rewards: [
 				{
@@ -71,12 +71,12 @@
 			x: 5.0d
 			y: -1.0d
 			description: [
-				"To enter the dimension:"
+				"想要进入这个维度："
 				""
-				"1. Place block and stand on top of it"
-				"2. [Crouch + Right click] the portal block "
+				"1、放下方块并站在它的顶部"
+				"2、[潜行键 + 右键] 传送门方块"
 				""
-				"Enjoy Your Vacation :D"
+				"享受你的假期 :D"
 			]
 			dependencies: ["08A24DB287339185"]
 			id: "2F1DC91FBD57B516"
@@ -116,11 +116,11 @@
 		{
 			x: 3.0d
 			y: 0.5d
-			subtitle: "gate to the end "
+			subtitle: "末地的大门"
 			description: [
-				"NOTE! :"
+				"提示："
 				""
-				"Make sure to stand in the middle while placing end portal blocks arround you or the portal won't be valid and thus won't activate "
+				"在你的周围放置末地传送门框架时，请确保你站在中心位置以保证结构不会失效或是不会激活"
 			]
 			dependencies: ["6CCCEFF4688CF8A7"]
 			id: "50EFC13BE0EF7CBA"
@@ -162,19 +162,19 @@
 			]
 		}
 		{
-			title: "Visit The End Diemension"
+			title: "前往末地维度"
 			icon: "minecraft:end_crystal"
 			x: 5.0d
 			y: 0.5d
 			shape: "square"
-			subtitle: "The end but not really"
+			subtitle: "末地，但并不真实"
 			dependencies: ["50EFC13BE0EF7CBA"]
 			size: 1.25d
 			id: "160D8B5B1B66E612"
 			tasks: [{
 				id: "6758D56CAC4D0C6A"
 				type: "checkmark"
-				title: "Done"
+				title: "完成"
 			}]
 			rewards: [
 				{
@@ -192,8 +192,8 @@
 		{
 			x: 1.0d
 			y: -1.0d
-			subtitle: "Basically Carbon"
-			description: ["Diamonds are Compressed Carbon right ?"]
+			subtitle: "基本上全是碳"
+			description: ["钻石由碳压缩而成，对吗？"]
 			dependencies: ["40CA56CFA5D73AA2"]
 			id: "2474F24723372722"
 			tasks: [{
@@ -218,7 +218,7 @@
 		{
 			x: 1.0d
 			y: -2.5d
-			subtitle: "you mean flint and iron*"
+			subtitle: "你意思是燧石和铁（打火石）"
 			dependencies: ["40CA56CFA5D73AA2"]
 			id: "1CE5BA6E10F229FE"
 			tasks: [{
@@ -234,12 +234,12 @@
 			}]
 		}
 		{
-			title: "Visit The Mining Dimension"
+			title: "前往挖矿维度"
 			icon: "allthemodium:other_vibranium_ore"
 			x: 7.0d
 			y: -1.0d
 			shape: "circle"
-			subtitle: "oooo ores baby"
+			subtitle: "哇……矿石们，我来了"
 			dependencies: ["2F1DC91FBD57B516"]
 			size: 1.5d
 			id: "321D65BF74801165"
