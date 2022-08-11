@@ -3,13 +3,13 @@
 	group: "10DB5C1CE56FDEE6"
 	order_index: 2
 	filename: "digital_storage"
-	title: "Digital Storage"
+	title: "数字存储"
 	icon: {
 		id: "megacells:item_storage_cell_256m"
 		Count: 1b
 		tag: { }
 	}
-	subtitle: ["8TB+ Storage"]
+	subtitle: ["8TB+存储空间"]
 	default_quest_shape: "rsquare"
 	default_hide_dependency_lines: false
 	quests: [
@@ -18,13 +18,13 @@
 			x: -5.0d
 			y: -1.5d
 			shape: "circle"
-			description: ["Early game digital storage without power"]
+			description: ["游戏早期的数字存储措施，无需能量"]
 			size: 1.5d
 			id: "3F24DBC605E29AAC"
 			tasks: [{
 				id: "0E1D753A4EEC8E07"
 				type: "checkmark"
-				title: "Simple Storage Network"
+				title: "简单存储网络"
 			}]
 			rewards: [
 				{
@@ -67,7 +67,7 @@
 			tasks: [{
 				id: "4A0440239412332B"
 				type: "checkmark"
-				title: "Refined Storage"
+				title: "精致存储"
 			}]
 			rewards: [
 				{
@@ -83,7 +83,7 @@
 			]
 		}
 		{
-			title: "Applied Energistics 2"
+			title: "应用能源2"
 			icon: {
 				id: "megacells:item_storage_cell_256m"
 				Count: 1b
@@ -92,13 +92,13 @@
 			x: 10.5d
 			y: -1.5d
 			shape: "circle"
-			subtitle: "[Coming Soon]"
+			subtitle: "[即将推出]"
 			size: 1.5d
 			id: "4129D89075086432"
 			tasks: [{
 				id: "3799A8939BF6EA25"
 				type: "checkmark"
-				title: "Applied Energistics"
+				title: "应用能源"
 				icon: "ae2:controller"
 			}]
 			rewards: [
@@ -272,7 +272,7 @@
 			tasks: [{
 				id: "6FAF078DB630172A"
 				type: "item"
-				title: "Refined Storage Controller"
+				title: "精致存储控制器"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -305,7 +305,7 @@
 			}]
 		}
 		{
-			title: "Crafting Grid"
+			title: "合成终端"
 			x: 2.0d
 			y: 3.0d
 			dependencies: ["71234C3746E3345A"]
@@ -313,7 +313,7 @@
 			tasks: [{
 				id: "06504DC3B802D504"
 				type: "item"
-				title: "Any #refinedstorage:crafting_grid"
+				title: "任何 #refinedstorage:crafting_grid"
 				icon: "refinedstorage:purple_crafting_grid"
 				item: {
 					id: "itemfilters:tag"
@@ -566,7 +566,7 @@
 			}]
 		}
 		{
-			title: "Pattern Grid"
+			title: "样板终端"
 			icon: "refinedstorage:purple_pattern_grid"
 			x: 2.0d
 			y: 4.5d
@@ -575,7 +575,7 @@
 			tasks: [{
 				id: "6DD9643D96527BBC"
 				type: "item"
-				title: "Any #refinedstorage:pattern_grid"
+				title: "任何 #refinedstorage:pattern_grid"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -586,7 +586,7 @@
 			}]
 		}
 		{
-			title: "Crafting Monitor"
+			title: "合成监控器"
 			icon: "refinedstorage:purple_crafting_monitor"
 			x: 2.0d
 			y: 6.0d
@@ -595,7 +595,7 @@
 			tasks: [{
 				id: "2FE19E254AC70A07"
 				type: "item"
-				title: "Any #refinedstorage:crafting_monitor"
+				title: "任何 #refinedstorage:crafting_monitor"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -606,7 +606,7 @@
 			}]
 		}
 		{
-			title: "Crafter Manager"
+			title: "合成管理器"
 			icon: "refinedstorage:purple_crafter_manager"
 			x: 2.0d
 			y: 7.5d
@@ -615,7 +615,7 @@
 			tasks: [{
 				id: "1FE2E385CB3F056A"
 				type: "item"
-				title: "Any #refinedstorage:crafter_manager"
+				title: "任何 #refinedstorage:crafter_manager"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -640,7 +640,7 @@
 		{
 			x: 2.0d
 			y: 10.5d
-			subtitle: "GG"
+			subtitle: "游戏结束"
 			dependencies: ["7B53F443E679AA27"]
 			id: "043EF6537D8F93A2"
 			tasks: [{
