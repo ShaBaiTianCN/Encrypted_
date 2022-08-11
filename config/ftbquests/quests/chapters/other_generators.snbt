@@ -3,9 +3,9 @@
 	group: "77E4751E1C15C1F0"
 	order_index: 1
 	filename: "other_generators"
-	title: "Other Generators"
+	title: "其他发电机"
 	icon: "mekanismgenerators:wind_generator"
-	subtitle: ["Wind/Gas/Heat we have them all!"]
+	subtitle: ["无论风能/燃气/热能，我们都有！"]
 	default_quest_shape: "hexagon"
 	default_hide_dependency_lines: false
 	quests: [
