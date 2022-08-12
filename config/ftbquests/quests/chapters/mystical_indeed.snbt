@@ -87,7 +87,7 @@
 		{
 			x: 1.0d
 			y: 9.5d
-			description: ["可以来挖矿维度找我"]
+			description: ["可以在挖矿维度找到"]
 			dependencies: ["031F282A6C8C4E03"]
 			id: "056198A5FF12A297"
 			tasks: [{
@@ -99,7 +99,7 @@
 		{
 			x: 3.5d
 			y: 9.5d
-			subtitle: "温特姆…美味！"
+			subtitle: "温特姆……美味！"
 			dependencies: ["056198A5FF12A297"]
 			id: "13896DBD5C483252"
 			tasks: [{
@@ -122,7 +122,7 @@
 		{
 			x: -1.5d
 			y: 11.5d
-			subtitle: "…"
+			subtitle: "……"
 			dependencies: ["031F282A6C8C4E03"]
 			id: "2D526616EA2BF077"
 			tasks: [{
@@ -260,7 +260,7 @@
 		{
 			x: -1.5d
 			y: 14.5d
-			subtitle: "当你用骨头刹车…"
+			subtitle: "当你用骨头刹车……"
 			dependencies: ["7E825F5FE0EEDFCC"]
 			id: "571E97DA559F086C"
 			tasks: [{
