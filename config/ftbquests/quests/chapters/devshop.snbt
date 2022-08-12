@@ -3,17 +3,17 @@
 	group: ""
 	order_index: 2
 	filename: "devshop"
-	title: "E-shop"
+	title: "电子商店"
 	icon: "kubejs:crypto_currency"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Absorption Hopper"
+			title: "吸收漏斗"
 			icon: "mob_grinding_utils:absorption_hopper"
 			x: -2.0d
 			y: 1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "3ECFB17F7E63E710"
 			tasks: [{
 				id: "5CBD3A10D47B42A3"
@@ -41,12 +41,12 @@
 			]
 		}
 		{
-			title: "Angel Ring"
+			title: "天使指环"
 			icon: "angelring:itemring"
 			x: -4.0d
 			y: -0.5d
 			shape: "circle"
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "35FD38731794C980"
 			tasks: [{
 				id: "75E6EE50D4DF409A"
@@ -74,11 +74,11 @@
 			]
 		}
 		{
-			title: "Assembly Program Drill"
+			title: "装配程序：钻头"
 			icon: "pneumaticcraft:assembly_program_drill"
 			x: -5.0d
 			y: -2.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "40A0ADB838D7CA56"
 			tasks: [{
 				id: "5E3B2D879322286F"
@@ -106,11 +106,11 @@
 			]
 		}
 		{
-			title: "Assembly Program Laser"
+			title: "装配程序：激光"
 			icon: "pneumaticcraft:assembly_program_laser"
 			x: -4.0d
 			y: -2.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "68FBAB54F7DF82F7"
 			tasks: [{
 				id: "0E584F1E42C39F54"
@@ -138,11 +138,11 @@
 			]
 		}
 		{
-			title: "Assembly Program Drill/Laser"
+			title: "装配程序：钻头&激光"
 			icon: "pneumaticcraft:assembly_program_drill_laser"
 			x: -6.0d
 			y: -2.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "2318153227C282AA"
 			tasks: [{
 				id: "10300A6A97E1F3A9"
@@ -170,11 +170,11 @@
 			]
 		}
 		{
-			title: "Backpack"
+			title: "背包"
 			icon: "sophisticatedbackpacks:backpack"
 			x: -4.0d
 			y: 1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "3FEFE59495499176"
 			tasks: [{
 				id: "3B07465343CE79AB"
@@ -202,11 +202,11 @@
 			]
 		}
 		{
-			title: "Blaze Nucleus"
+			title: "烈焰人核心"
 			icon: "nameless_trinkets:blaze_nucleus"
 			x: -5.5d
 			y: -3.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "1BFCD5E5FCF0A710"
 			tasks: [{
 				id: "14EE221A2F4862F8"
@@ -234,11 +234,11 @@
 			]
 		}
 		{
-			title: "Blindfold"
+			title: "眼障"
 			icon: "nameless_trinkets:blindfold"
 			x: -3.5d
 			y: -1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "2E092FDDCBD2C8BA"
 			tasks: [{
 				id: "571D556E68BF0240"
@@ -266,11 +266,11 @@
 			]
 		}
 		{
-			title: "Broken Ankh"
+			title: "损坏的生命符"
 			icon: "nameless_trinkets:broken_ankh"
 			x: -2.0d
 			y: -0.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "56A34720040CA774"
 			tasks: [{
 				id: "0871A4B42D857B0F"
@@ -297,11 +297,11 @@
 			]
 		}
 		{
-			title: "Experience Battery"
+			title: "经验电池"
 			icon: "nameless_trinkets:experience_battery"
 			x: -1.5d
 			y: -1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "744942A346F96DC6"
 			tasks: [{
 				id: "3393AFEE0F37AB3B"
@@ -329,11 +329,11 @@
 			]
 		}
 		{
-			title: "Fertilzer"
+			title: "有机肥料"
 			icon: "nameless_trinkets:fertilizer"
 			x: -5.5d
 			y: -1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "5AE12B381745A7DC"
 			tasks: [{
 				id: "3B792BA29A130DBC"
@@ -361,12 +361,12 @@
 			]
 		}
 		{
-			title: "Moon Stone"
+			title: "月之石"
 			icon: "nameless_trinkets:moon_stone"
 			x: -6.5d
 			y: -1.5d
 			shape: "hexagon"
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "220FCC4C7189AA6E"
 			tasks: [{
 				id: "4A4408B039582AB5"
@@ -394,11 +394,11 @@
 			]
 		}
 		{
-			title: "Reforger"
+			title: "重铸者"
 			icon: "nameless_trinkets:reforger"
 			x: -6.0d
 			y: -0.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "34FC50E45BAB0251"
 			tasks: [{
 				id: "5A139A965BDBE53C"
@@ -426,11 +426,11 @@
 			]
 		}
 		{
-			title: "Reverse Card"
+			title: "反转卡片"
 			icon: "nameless_trinkets:reverse_card"
 			x: -2.5d
 			y: -1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "3A76D5BEE8D88838"
 			tasks: [{
 				id: "2AFE83D093EDEF08"
@@ -458,11 +458,11 @@
 			]
 		}
 		{
-			title: "Speed Force"
+			title: "加速之力"
 			icon: "nameless_trinkets:speed_force"
 			x: -4.5d
 			y: -1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "67F535187650CB7C"
 			tasks: [{
 				id: "3C57A74B33D721B0"
@@ -490,11 +490,11 @@
 			]
 		}
 		{
-			title: "Drawer Key"
+			title: "抽屉钥匙"
 			icon: "storagedrawers:drawer_key"
 			x: -3.5d
 			y: -3.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "70AE95A916819D31"
 			tasks: [{
 				id: "2814CA7E8917E52D"
@@ -522,11 +522,11 @@
 			]
 		}
 		{
-			title: "PCB Blueprint"
+			title: "印刷电路板蓝图"
 			icon: "pneumaticcraft:pcb_blueprint"
 			x: -3.0d
 			y: 1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "6E82E6D7972F117E"
 			tasks: [{
 				id: "2F08A051BFF5482A"
@@ -555,11 +555,11 @@
 			]
 		}
 		{
-			title: "Quantify Key"
+			title: "数量钥匙"
 			icon: "storagedrawers:quantify_key"
 			x: -2.5d
 			y: -3.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "0C0866C28E1ECB83"
 			tasks: [{
 				id: "2CCB10221A22BDFC"
@@ -588,11 +588,11 @@
 			]
 		}
 		{
-			title: "Concealment Key"
+			title: "隐蔽钥匙"
 			icon: "storagedrawers:shroud_key"
 			x: -4.5d
 			y: -3.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "0224CE7622663A6E"
 			tasks: [{
 				id: "1DB634D928CE069D"
@@ -620,7 +620,7 @@
 			]
 		}
 		{
-			title: "Effeciency II"
+			title: "效率 II"
 			icon: {
 				id: "minecraft:enchanted_book"
 				Count: 1b
@@ -633,7 +633,7 @@
 			}
 			x: -3.5d
 			y: 2.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "7210F5549AFBEE0B"
 			tasks: [{
 				id: "3D4142AE7AE008EC"
@@ -670,7 +670,7 @@
 			]
 		}
 		{
-			title: "Fortune III"
+			title: "时运 III"
 			icon: {
 				id: "minecraft:enchanted_book"
 				Count: 1b
@@ -683,7 +683,7 @@
 			}
 			x: -3.0d
 			y: 3.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "33F2C98608D4DB03"
 			tasks: [{
 				id: "1BEA443660F2C313"
@@ -720,7 +720,7 @@
 			]
 		}
 		{
-			title: "Looting I"
+			title: "抢夺 I"
 			icon: {
 				id: "minecraft:enchanted_book"
 				Count: 1b
@@ -733,7 +733,7 @@
 			}
 			x: -5.0d
 			y: 3.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "58B8B51724F29970"
 			tasks: [{
 				id: "231F504014B9F28E"
@@ -770,7 +770,7 @@
 			]
 		}
 		{
-			title: "Looting III"
+			title: "抢夺 III"
 			icon: {
 				id: "minecraft:enchanted_book"
 				Count: 1b
@@ -783,7 +783,7 @@
 			}
 			x: -4.0d
 			y: 3.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "413D63CBF4A23E52"
 			tasks: [{
 				id: "2758D60A5A9A6B46"
@@ -820,7 +820,7 @@
 			]
 		}
 		{
-			title: "Silk Touch"
+			title: "精准采集"
 			icon: {
 				id: "minecraft:enchanted_book"
 				Count: 1b
@@ -833,7 +833,7 @@
 			}
 			x: -5.5d
 			y: 2.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "34A42A16B2EE2F1E"
 			tasks: [{
 				id: "5E17F9E3DC2E724A"
@@ -870,11 +870,11 @@
 			]
 		}
 		{
-			title: "Wither Skeleton Skull"
+			title: "凋零骷髅头颅"
 			icon: "minecraft:wither_skeleton_skull"
 			x: -2.5d
 			y: 0.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "4C1BC41880230EA7"
 			tasks: [{
 				id: "41B8D2B19E2756A4"
@@ -902,11 +902,11 @@
 			]
 		}
 		{
-			title: "Wither Skeleton Spawn Egg"
+			title: "凋零骷髅刷怪蛋"
 			icon: "minecraft:wither_skeleton_spawn_egg"
 			x: -4.5d
 			y: 0.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "5FFB4526ACD79537"
 			tasks: [{
 				id: "6BD4263E91A080D3"
@@ -934,11 +934,11 @@
 			]
 		}
 		{
-			title: "Honey Bottle"
+			title: "蜂蜜瓶"
 			icon: "minecraft:honey_bottle"
 			x: -3.0d
 			y: -2.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "274CD19F64114F2E"
 			tasks: [{
 				id: "39F2D2B2C3D04F65"
@@ -966,11 +966,11 @@
 			]
 		}
 		{
-			title: "Honeycomb"
+			title: "蜜脾"
 			icon: "minecraft:honeycomb"
 			x: -2.0d
 			y: -2.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "6B72E105FEB03C8C"
 			tasks: [{
 				id: "06B2EF85359CE426"
@@ -998,11 +998,11 @@
 			]
 		}
 		{
-			title: "Heart of the Sea"
+			title: "海洋之心"
 			icon: "minecraft:heart_of_the_sea"
 			x: -5.5d
 			y: 0.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "13B0AE7ECFF29345"
 			tasks: [{
 				id: "4D6769BF5E16652D"
@@ -1030,11 +1030,11 @@
 			]
 		}
 		{
-			title: "Ghast Tear"
+			title: "恶魂之泪"
 			icon: "minecraft:ghast_tear"
 			x: -3.5d
 			y: 0.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "1EB4AC231C63F3F6"
 			tasks: [{
 				id: "014A1513E1AB4CC7"
@@ -1062,7 +1062,7 @@
 			]
 		}
 		{
-			title: "Ender Chest"
+			title: "末影链接箱"
 			icon: {
 				id: "enderchests:ender_chest"
 				Count: 1b
@@ -1073,7 +1073,7 @@
 			}
 			x: -6.0d
 			y: 1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "3AE37F61FEC68064"
 			tasks: [{
 				id: "6CD48384FD480DB2"
@@ -1108,7 +1108,7 @@
 			]
 		}
 		{
-			title: "Efficiency I"
+			title: "效率 I"
 			icon: {
 				id: "minecraft:enchanted_book"
 				Count: 1b
@@ -1121,7 +1121,7 @@
 			}
 			x: -4.5d
 			y: 2.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "1EB61B6565CB80B2"
 			tasks: [{
 				id: "4717D2A3703B3DB5"
@@ -1158,7 +1158,7 @@
 			]
 		}
 		{
-			title: "Efficiency III"
+			title: "效率 III"
 			icon: {
 				id: "minecraft:enchanted_book"
 				Count: 1b
@@ -1171,7 +1171,7 @@
 			}
 			x: -2.5d
 			y: 2.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "26D30A475C588F66"
 			tasks: [{
 				id: "1323954107B6A277"
@@ -1208,7 +1208,7 @@
 			]
 		}
 		{
-			title: "Ender Tank"
+			title: "末影储罐"
 			icon: {
 				id: "endertanks:ender_tank"
 				Count: 1b
@@ -1219,7 +1219,7 @@
 			}
 			x: -5.0d
 			y: 1.5d
-			subtitle: "Please have the exact amount in your inventory to avoid any extras being deleted."
+			subtitle: "请确保物品栏中有准确的加密货币数量以免额外扣除。"
 			id: "46DDECA1FB108A6E"
 			tasks: [{
 				id: "2D957103B015E953"
