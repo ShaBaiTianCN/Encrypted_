@@ -103,7 +103,7 @@
 		}
 		{
 			title: "I <3 Chemistry"
-			icon: "chemlib:element_bromine"
+			icon: "chemlib:iodine"
 			x: 3.0d
 			y: 0.0d
 			subtitle: "<3"

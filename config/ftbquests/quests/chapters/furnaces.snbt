@@ -26,6 +26,11 @@
 				type: "item"
 				item: "ironfurnaces:iron_furnace"
 			}]
+			rewards: [{
+				id: "520E2F9D3BCE8CA0"
+				type: "item"
+				item: "minecraft:iron_ingot"
+			}]
 		}
 		{
 			x: 12.0d
@@ -41,6 +46,11 @@
 				type: "item"
 				item: "ironfurnaces:gold_furnace"
 			}]
+			rewards: [{
+				id: "50E730906E041730"
+				type: "item"
+				item: "minecraft:gold_ingot"
+			}]
 		}
 		{
 			x: 13.5d
@@ -51,6 +61,11 @@
 				id: "526EC22F4AE2F5EC"
 				type: "item"
 				item: "ironfurnaces:diamond_furnace"
+			}]
+			rewards: [{
+				id: "664C32EACD7047AC"
+				type: "item"
+				item: "minecraft:diamond"
 			}]
 		}
 		{
@@ -63,6 +78,11 @@
 				type: "item"
 				item: "ironfurnaces:emerald_furnace"
 			}]
+			rewards: [{
+				id: "06116EB59C13AE83"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
 		}
 		{
 			x: 16.5d
@@ -73,6 +93,11 @@
 				id: "5BCAE0353B0EFF32"
 				type: "item"
 				item: "ironfurnaces:obsidian_furnace"
+			}]
+			rewards: [{
+				id: "0667EC4B3F707F9F"
+				type: "item"
+				item: "minecraft:obsidian"
 			}]
 		}
 		{
@@ -86,6 +111,11 @@
 				type: "item"
 				item: "ironfurnaces:crystal_furnace"
 			}]
+			rewards: [{
+				id: "5C8B7804346C0A75"
+				type: "item"
+				item: "glassential:glass_ethereal"
+			}]
 		}
 		{
 			x: 10.5d
@@ -97,6 +127,11 @@
 				type: "item"
 				item: "ironfurnaces:copper_furnace"
 			}]
+			rewards: [{
+				id: "3383BE666C5ED411"
+				type: "item"
+				item: "minecraft:copper_ingot"
+			}]
 		}
 		{
 			x: 18.0d
@@ -107,6 +142,11 @@
 				id: "378FFF525CAC3FF9"
 				type: "item"
 				item: "ironfurnaces:netherite_furnace"
+			}]
+			rewards: [{
+				id: "1C623E6E40E37E33"
+				type: "item"
+				item: "minecraft:netherite_ingot"
 			}]
 		}
 		{
@@ -120,6 +160,11 @@
 				type: "item"
 				item: "ironfurnaces:silver_furnace"
 			}]
+			rewards: [{
+				id: "792A4FEED1EA5C87"
+				type: "item"
+				item: "alltheores:silver_ingot"
+			}]
 		}
 		{
 			x: 18.0d
@@ -131,6 +176,11 @@
 				id: "0A1C413735B01B2D"
 				type: "item"
 				item: "ironfurnaces:allthemodium_furnace"
+			}]
+			rewards: [{
+				id: "56EBB399AD965FB6"
+				type: "item"
+				item: "allthemodium:allthemodium_ingot"
 			}]
 		}
 		{
@@ -144,6 +194,11 @@
 				type: "item"
 				item: "ironfurnaces:vibranium_furnace"
 			}]
+			rewards: [{
+				id: "119386C30066817B"
+				type: "item"
+				item: "allthemodium:vibranium_ingot"
+			}]
 		}
 		{
 			x: 18.0d
@@ -155,6 +210,11 @@
 				id: "07C2F68EACEE95A0"
 				type: "item"
 				item: "ironfurnaces:unobtainium_furnace"
+			}]
+			rewards: [{
+				id: "08CBF8F43CF9DB76"
+				type: "item"
+				item: "allthemodium:unobtainium_ingot"
 			}]
 		}
 		{
@@ -175,6 +235,23 @@
 					}
 				}
 			}]
+			rewards: [
+				{
+					id: "039AE61D18D19E42"
+					type: "item"
+					item: "allthemodium:unobtainium_vibranium_alloy_ingot"
+				}
+				{
+					id: "70E006B9F492B876"
+					type: "item"
+					item: "allthemodium:unobtainium_allthemodium_alloy_ingot"
+				}
+				{
+					id: "266C3B49270DB682"
+					type: "item"
+					item: "kubejs:crypto_currency"
+				}
+			]
 		}
 	]
 }
