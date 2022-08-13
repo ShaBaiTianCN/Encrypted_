@@ -3,7 +3,7 @@
 	group: "72F9B62EED0FC7BC"
 	order_index: 1
 	filename: "i_3_chemistry"
-	title: "I <3 Chemistry_"
+	title: "I <3 化学_"
 	icon: "chemlib:iodine"
 	subtitle: ["<3"]
 	default_quest_shape: "square"
@@ -13,8 +13,8 @@
 			x: -1.5d
 			y: 0.0d
 			shape: "diamond"
-			subtitle: "where did it go ?"
-			description: ["Disintegrate REALITY_"]
+			subtitle: "它去了哪里？"
+			description: ["破裂的现实_"]
 			dependencies: ["4584DE99AFDE11D9"]
 			id: "06574D1BBAB67E71"
 			tasks: [{
@@ -32,8 +32,8 @@
 			x: -1.5d
 			y: 1.5d
 			shape: "diamond"
-			subtitle: "the power of gods"
-			description: ["Combine the chemicals of the world !"]
+			subtitle: "众神之力"
+			description: ["结合世界上全部的化学品！"]
 			dependencies: ["4584DE99AFDE11D9"]
 			id: "2DE79E9A137F6DA8"
 			tasks: [{
@@ -65,7 +65,7 @@
 			}]
 		}
 		{
-			title: "Hydrogen"
+			title: "氢"
 			x: -10.5d
 			y: -10.5d
 			shape: "square"
@@ -83,7 +83,7 @@
 			}]
 		}
 		{
-			title: "Carbon"
+			title: "碳"
 			x: 2.5d
 			y: -9.5d
 			shape: "square"
@@ -101,7 +101,7 @@
 			}]
 		}
 		{
-			title: "Oxygen"
+			title: "氧"
 			x: 4.5d
 			y: -9.5d
 			dependencies: ["3318BAD19E0592D2"]
@@ -152,7 +152,7 @@
 			}]
 		}
 		{
-			title: "Nitrogen"
+			title: "氮"
 			x: 3.5d
 			y: -9.5d
 			shape: "square"
@@ -173,7 +173,7 @@
 			x: 3.5d
 			y: 0.5d
 			shape: "diamond"
-			description: ["Obtained By Dissolving Wool and other materials"]
+			description: ["通过溶解羊毛和其他材料获取"]
 			dependencies: ["3318BAD19E0592D2"]
 			id: "709DEDC8986EE3B7"
 			tasks: [{
@@ -213,7 +213,7 @@
 			}]
 		}
 		{
-			title: "Sulfur"
+			title: "硫"
 			x: 4.5d
 			y: -8.5d
 			dependencies: ["3318BAD19E0592D2"]
@@ -233,7 +233,7 @@
 			x: -3.5d
 			y: 0.75d
 			shape: "gear"
-			subtitle: "hotty no touchy"
+			subtitle: "辣妹子不动心"
 			dependencies: ["3318BAD19E0592D2"]
 			size: 1.75d
 			id: "4584DE99AFDE11D9"
@@ -292,10 +292,10 @@
 			x: 3.0d
 			y: 1.0d
 			shape: "diamond"
-			subtitle: "Vegan Iron"
+			subtitle: "纯铁"
 			description: [
-				"Can be Obtained from beetroots"
-				"You can also make it yourself using the Chemical Combiner"
+				"可以从甜菜中获取"
+				"您也可以用化学化合机自己制作。"
 			]
 			dependencies: ["3318BAD19E0592D2"]
 			id: "052325789C0C018F"
@@ -412,7 +412,7 @@
 			x: -5.5d
 			y: 1.5d
 			shape: "diamond"
-			subtitle: "Make dem atoms"
+			subtitle: "操纵原子"
 			dependencies: ["4584DE99AFDE11D9"]
 			optional: true
 			id: "6E3C0F3ABEB70F5D"
@@ -431,7 +431,7 @@
 			x: -5.5d
 			y: 0.0d
 			shape: "diamond"
-			subtitle: "liquifing like a boss"
+			subtitle: "像老板一样液化"
 			dependencies: ["4584DE99AFDE11D9"]
 			optional: true
 			id: "4FCC64F31B6CA70A"
@@ -597,8 +597,8 @@
 			x: -6.0d
 			y: 0.75d
 			shape: "diamond"
-			subtitle: "Cobblestone Flavored !"
-			description: ["Better Cobble Gen !"]
+			subtitle: "圆石味的！"
+			description: ["更好的圆石制造机！"]
 			dependencies: ["4584DE99AFDE11D9"]
 			size: 1.5d
 			id: "7C8A3E01D0101395"
@@ -614,15 +614,15 @@
 			}]
 		}
 		{
-			title: "Why only White :("
+			title: "为什么只有白色 :("
 			x: -8.25d
 			y: 0.75d
 			shape: "circle"
-			subtitle: "Simulation Blocks all around"
+			subtitle: "周围都是模拟块"
 			description: [
-				"There is a layer of gray simulation block underneath the white layer"
+				"在白色那层下面还有一层淡灰色的模拟块"
 				""
-				"Simulation blocks can be dissolved to different elements and compounds"
+				"模拟块可以溶解为不同的元素与化合物"
 			]
 			dependencies: ["3318BAD19E0592D2"]
 			size: 1.5d
@@ -630,7 +630,7 @@
 			tasks: [{
 				id: "366EE0783FF57BE7"
 				type: "item"
-				title: "Any #forge:concrete"
+				title: "任意 #forge:concrete"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -649,8 +649,8 @@
 			x: 2.0d
 			y: 1.0d
 			shape: "diamond"
-			subtitle: "Clay-nite"
-			description: ["Can be obtained from dissloving dirt"]
+			subtitle: "黏土膏"
+			description: ["可以通过溶解各种泥土来获得"]
 			dependencies: ["3318BAD19E0592D2"]
 			id: "164DD2572347B716"
 			tasks: [{
@@ -1908,19 +1908,19 @@
 			}]
 		}
 		{
-			title: "These Elements are OPTIONAL !"
+			title: "这些元素都是可选的！"
 			icon: "computercraft:printed_pages"
 			x: -4.5d
 			y: -10.5d
 			shape: "diamond"
-			subtitle: "You don't need to complete them all"
-			description: ["Extra points if you do ;)"]
+			subtitle: "您不需要完成全部"
+			description: ["如果您做到了，这是个加分项;)"]
 			size: 3.0d
 			id: "4D0296B6E8526291"
 			tasks: [{
 				id: "225D37494EC5CED2"
 				type: "checkmark"
-				title: "These Elements are OPTOINAL !"
+				title: "这些元素都是可选的！"
 			}]
 			rewards: [
 				{
@@ -1959,7 +1959,7 @@
 			x: -1.0d
 			y: 0.75d
 			shape: "diamond"
-			subtitle: "Under Pressure"
+			subtitle: "在压力作用下"
 			dependencies: ["4584DE99AFDE11D9"]
 			size: 1.5d
 			id: "09DC206CDE46B887"
