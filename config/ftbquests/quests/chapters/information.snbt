@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 0
 	filename: "information"
-	title: "Information_"
+	title: "信息_"
 	icon: "computercraft:printed_pages"
 	subtitle: ["（几条）信息"]
 	default_quest_shape: ""
