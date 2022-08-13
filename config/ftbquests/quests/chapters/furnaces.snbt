@@ -3,7 +3,7 @@
 	group: "5508F37D906E5430"
 	order_index: 0
 	filename: "furnaces"
-	title: "Furnaces_"
+	title: "熔炉_"
 	icon: {
 		id: "ironfurnaces:million_furnace"
 		Count: 1b
