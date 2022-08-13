@@ -1,0 +1,11 @@
+{
+  "name": "Caffeine",
+  "colors": [
+    "3dc43d",
+    "2c802c"
+  ],
+  "ingredient": {
+    "item": "chemlib:caffeine"
+  },
+  "inUltimateSingularity": true
+}
