@@ -14,7 +14,7 @@
 			y: 0.0d
 			shape: "diamond"
 			subtitle: "它去了哪里？"
-			description: ["Disintegrate REALITY_"]
+			description: ["破裂的现实_"]
 			dependencies: ["4584DE99AFDE11D9"]
 			id: "06574D1BBAB67E71"
 			tasks: [{
