@@ -18,8 +18,8 @@ onEvent('item.registry', event => {
 
 onEvent('block.registry', event => {
 	// Register new blocks here
-	event.create('encrypted_ore').material("stone").fullBlock(true).hardness(0.5)
-	event.create('wood_machine_frame').material("wood")
+	event.create('encrypted_ore').material("stone").fullBlock(true).hardness(0.5).displayName('加密矿石')
+	event.create('wood_machine_frame').material("wood").displayName('木制机器框架')
 })
 
 
