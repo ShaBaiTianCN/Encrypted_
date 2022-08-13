@@ -15,7 +15,7 @@
 			y: 0.0d
 			shape: "hexagon"
 			subtitle: "> Start_"
-			description: ["玩的开心 :D"]
+			description: ["玩得开心 :D"]
 			dependencies: [
 				"7A3F27E8F5290BF4"
 				"6F096D3A1C21F9AC"
