@@ -379,25 +379,29 @@
 			}]
 		}
 		{
-			x: 10.0d
-			y: 0.0d
-			shape: "diamond"
+			x: 14.25d
+			y: -0.75d
+			shape: "circle"
 			subtitle: "裂变元素以获取更多元素"
 			dependencies: [
 				"5886A0F062BAD812"
 				"7D4B54AACC4A3B46"
+				"16D19D7A0180C0BF"
+				"4CA6F3B604F3B590"
+				"54664E882DD7DCB8"
+				"43874772B7948377"
 			]
-			size: 2.0d
+			size: 1.5d
 			id: "2FB567645A4EFE1A"
 			tasks: [{
 				id: "455B7A69916AC0F5"
 				type: "item"
-				item: "alchemistry:fission_controller"
+				item: "alchemistry:fission_chamber_controller"
 			}]
 		}
 		{
-			x: 11.0d
-			y: 1.1d
+			x: 12.75d
+			y: -0.75d
 			shape: "diamond"
 			size: 1.5d
 			id: "5886A0F062BAD812"
@@ -409,38 +413,42 @@
 			}]
 		}
 		{
-			x: 9.0d
-			y: 1.1d
+			x: 14.25d
+			y: 0.75d
 			shape: "diamond"
 			size: 1.5d
 			id: "7D4B54AACC4A3B46"
 			tasks: [{
 				id: "19E58F8C7292FF55"
 				type: "item"
-				item: "alchemistry:fission_casing"
-				count: 98L
+				item: "alchemistry:reactor_casing"
+				count: 62L
 			}]
 		}
 		{
-			x: 10.0d
-			y: -2.0d
-			shape: "diamond"
+			x: 14.25d
+			y: 4.5d
+			shape: "circle"
 			subtitle: "聚合元素以获取更多元素"
 			dependencies: [
 				"66F44AB4C8B40094"
 				"110F5E690AE8C6D0"
+				"125725AEE00725C4"
+				"3045D8B27D97015A"
+				"78F9036C8439712F"
+				"5BDC9F5E90863632"
 			]
-			size: 2.0d
+			size: 1.5d
 			id: "1A688943A85E38E0"
 			tasks: [{
 				id: "472A08DC21059673"
 				type: "item"
-				item: "alchemistry:fusion_controller"
+				item: "alchemistry:fusion_chamber_controller"
 			}]
 		}
 		{
-			x: 11.0d
-			y: -3.0d
+			x: 15.75d
+			y: 4.5d
 			shape: "diamond"
 			size: 1.5d
 			id: "110F5E690AE8C6D0"
@@ -452,16 +460,114 @@
 			}]
 		}
 		{
-			x: 9.0d
-			y: -3.0d
+			x: 14.25d
+			y: 6.0d
 			shape: "diamond"
 			size: 1.5d
 			id: "66F44AB4C8B40094"
 			tasks: [{
 				id: "790ADBEA0A39128D"
 				type: "item"
-				item: "alchemistry:fusion_casing"
-				count: 98L
+				item: "alchemistry:reactor_casing"
+				count: 62L
+			}]
+		}
+		{
+			x: 14.25d
+			y: -2.25d
+			shape: "diamond"
+			size: 1.5d
+			id: "16D19D7A0180C0BF"
+			tasks: [{
+				id: "1F2084BFD17E086E"
+				type: "item"
+				item: "alchemistry:reactor_glass"
+				count: 36L
+			}]
+		}
+		{
+			x: 16.5d
+			y: -0.75d
+			shape: "diamond"
+			size: 1.5d
+			id: "4CA6F3B604F3B590"
+			tasks: [{
+				id: "2C3E169A3888736A"
+				type: "item"
+				item: "alchemistry:reactor_energy"
+			}]
+		}
+		{
+			x: 15.75d
+			y: 0.0d
+			shape: "diamond"
+			size: 1.5d
+			id: "54664E882DD7DCB8"
+			tasks: [{
+				id: "1DD128FFDCC4EB6B"
+				type: "item"
+				item: "alchemistry:reactor_input"
+			}]
+		}
+		{
+			x: 15.75d
+			y: -1.5d
+			shape: "diamond"
+			size: 1.5d
+			id: "43874772B7948377"
+			tasks: [{
+				id: "08C34714D0B400D9"
+				type: "item"
+				item: "alchemistry:reactor_output"
+			}]
+		}
+		{
+			x: 14.25d
+			y: 3.0d
+			shape: "diamond"
+			size: 1.5d
+			id: "125725AEE00725C4"
+			tasks: [{
+				id: "3A502049CE71297D"
+				type: "item"
+				item: "alchemistry:reactor_glass"
+				count: 36L
+			}]
+		}
+		{
+			x: 12.75d
+			y: 3.75d
+			shape: "diamond"
+			size: 1.5d
+			id: "3045D8B27D97015A"
+			tasks: [{
+				id: "30C0DC63131E7B80"
+				type: "item"
+				item: "alchemistry:reactor_input"
+			}]
+		}
+		{
+			x: 12.75d
+			y: 5.25d
+			shape: "diamond"
+			size: 1.5d
+			id: "78F9036C8439712F"
+			tasks: [{
+				id: "6439CB5422289DD7"
+				type: "item"
+				item: "alchemistry:reactor_output"
+			}]
+		}
+		{
+			x: 12.0d
+			y: 4.5d
+			shape: "diamond"
+			size: 1.5d
+			id: "5BDC9F5E90863632"
+			tasks: [{
+				id: "6EB2951B340D4734"
+				type: "item"
+				item: "alchemistry:reactor_energy"
 			}]
 		}
 	]

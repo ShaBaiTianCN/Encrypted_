@@ -5,7 +5,6 @@ console.info('Custom [Items / Blocks]')
 onEvent('item.registry', event => {
 	
 	// Register new items here
-	event.create('new_compound_ethylene').displayName('乙烯')
 	event.create('crypto_currency').displayName('加密货币')
 	event.create('encrypted_ingot').displayName('§5加密锭§r').glow(true)
 	event.create('encrypted_matter').displayName('加密物质')
@@ -29,7 +28,7 @@ onEvent('item.modification', event => {
 	event.modify('minecraft:ender_pearl', item => {item.maxStackSize = 64})
 	event.modify('minecraft:snowball', item => {item.maxStackSize = 64})
 
-	event.modify('chemlib:element_hydrogen', item => {item.burnTime = 20})
-	event.modify('chemlib:element_carbon', item => {item.burnTime = 200})
+	event.modify('chemlib:hydrogen', item => {item.burnTime = 20})
+	event.modify('chemlib:carbon', item => {item.burnTime = 200})
 })
 

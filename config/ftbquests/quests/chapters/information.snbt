@@ -23,7 +23,7 @@
 				"38D3B9F26C4AF843"
 				"737E8188B3F1B769"
 			]
-			size: 1.5d
+			size: 2.0d
 			id: "2D6B42F98B383FA1"
 			tasks: [{
 				id: "03925A63A5A19CDB"
@@ -58,7 +58,7 @@
 				}
 			}
 			x: -3.0d
-			y: 1.0d
+			y: 1.5d
 			shape: "hexagon"
 			subtitle: "Encrypted_"
 			description: [
@@ -80,7 +80,7 @@
 		}
 		{
 			icon: "quark:purple_rune"
-			x: -2.5d
+			x: -1.5d
 			y: 2.0d
 			shape: "hexagon"
 			subtitle: ":3"
@@ -106,7 +106,7 @@
 		}
 		{
 			icon: "tombstone:book_of_recycling"
-			x: -3.0d
+			x: -3.5d
 			y: 0.0d
 			shape: "hexagon"
 			subtitle: "一场悲剧"
@@ -136,7 +136,7 @@
 			title: "读我！"
 			icon: "allthemodium:unobtainium_gear"
 			x: -3.0d
-			y: -1.0d
+			y: -1.5d
 			shape: "hexagon"
 			subtitle: "重要信息"
 			description: [
@@ -164,7 +164,7 @@
 		}
 		{
 			icon: "kubejs:crypto_currency"
-			x: -2.5d
+			x: -1.5d
 			y: -2.0d
 			shape: "hexagon"
 			subtitle: "钱~~~"
