@@ -16,14 +16,14 @@
 			description: [
 				"种下你的第一棵树苗并砍倒它"
 				""
-				"原木可以从任何种类的树上获得"
+				"原木可以从任意种类的树上获得"
 			]
 			dependencies: ["6836101875B03326"]
 			id: "3D5C58A5E7010D2C"
 			tasks: [{
 				id: "2B1E7D2911D9AA20"
 				type: "item"
-				title: "任何 #minecraft:logs"
+				title: "任意 #minecraft:logs"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -49,16 +49,16 @@
 			]
 		}
 		{
-			title: "任何木板"
+			title: "任意木板"
 			x: 1.5d
 			y: 1.0d
-			description: ["任何种类的木板都可以"]
+			description: ["任意种类的木板都可以"]
 			dependencies: ["3D5C58A5E7010D2C"]
 			id: "4768EAA9E51ACB89"
 			tasks: [{
 				id: "054CEAA2B7966C21"
 				type: "item"
-				title: "任何 #minecraft:planks"
+				title: "任意 #minecraft:planks"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -75,7 +75,7 @@
 			}]
 		}
 		{
-			title: "任何树苗"
+			title: "任意树苗"
 			x: -1.5d
 			y: 1.0d
 			description: ["用加密物质合成一个树苗"]
@@ -84,7 +84,7 @@
 			tasks: [{
 				id: "2FA06369A36FC4ED"
 				type: "item"
-				title: "任何 #minecraft:saplings"
+				title: "任意 #minecraft:saplings"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -163,7 +163,7 @@
 			tasks: [{
 				id: "14A2CDDC645E9451"
 				type: "item"
-				title: "任何 #forge:workbench"
+				title: "任意 #forge:workbench"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -286,7 +286,7 @@
 			]
 		}
 		{
-			title: "任何树叶"
+			title: "任意树叶"
 			x: 4.5d
 			y: 1.0d
 			description: ["使用剪刀收集一些树叶"]
@@ -295,7 +295,7 @@
 			tasks: [{
 				id: "76E24A40A76D87FF"
 				type: "item"
-				title: "任何 #minecraft:leaves"
+				title: "任意 #minecraft:leaves"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -382,18 +382,18 @@
 			]
 		}
 		{
-			title: "任何桶"
+			title: "任意桶"
 			icon: "exnihilosequentia:crimson_barrel"
 			x: 6.0d
 			y: 2.5d
-			description: ["桶可以用于将任何有机物品堆肥并转换为泥土"]
+			description: ["桶可以用于将任意有机物品堆肥并转换为泥土"]
 			dependencies: ["729BB388E311A1B3"]
 			optional: true
 			id: "7B098130E970F876"
 			tasks: [{
 				id: "009525968D1DCF4C"
 				type: "item"
-				title: "任何 #exnihilosequentia:barrels"
+				title: "任意 #exnihilosequentia:barrels"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -495,7 +495,7 @@
 			tasks: [{
 				id: "68D38A8FDAF17287"
 				type: "item"
-				title: "任何 #forge:string"
+				title: "任意 #forge:string"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -511,7 +511,7 @@
 			}]
 		}
 		{
-			title: "任何坩埚"
+			title: "任意坩埚"
 			icon: "exnihilosequentia:crimson_crucible"
 			x: 6.75d
 			y: 1.0d
@@ -521,7 +521,7 @@
 			tasks: [{
 				id: "65D55D3F8FCA1D9D"
 				type: "item"
-				title: "任何 #exnihilosequentia:crucibles"
+				title: "任意 #exnihilosequentia:crucibles"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -655,7 +655,7 @@
 			x: 9.0d
 			y: 4.0d
 			shape: "gear"
-			description: ["你现在没有任何问题了，因为你拥有了造石机"]
+			description: ["你现在没有任意问题了，因为你拥有了造石机"]
 			dependencies: [
 				"67FDC61D4D1B5601"
 				"051E2D9E9A2038D8"
@@ -813,7 +813,7 @@
 			}]
 		}
 		{
-			title: "床（任何颜色）"
+			title: "床（任意颜色）"
 			x: 9.0d
 			y: -0.5d
 			shape: "diamond"
@@ -824,7 +824,7 @@
 			tasks: [{
 				id: "6686F2E04B115648"
 				type: "item"
-				title: "任何 #minecraft:beds"
+				title: "任意 #minecraft:beds"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b

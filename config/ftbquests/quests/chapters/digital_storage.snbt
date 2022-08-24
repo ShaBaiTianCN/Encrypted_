@@ -313,7 +313,7 @@
 			tasks: [{
 				id: "06504DC3B802D504"
 				type: "item"
-				title: "任何 #refinedstorage:crafting_grid"
+				title: "任意 #refinedstorage:crafting_grid"
 				icon: "refinedstorage:purple_crafting_grid"
 				item: {
 					id: "itemfilters:tag"
@@ -575,7 +575,7 @@
 			tasks: [{
 				id: "6DD9643D96527BBC"
 				type: "item"
-				title: "任何 #refinedstorage:pattern_grid"
+				title: "任意 #refinedstorage:pattern_grid"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -595,7 +595,7 @@
 			tasks: [{
 				id: "2FE19E254AC70A07"
 				type: "item"
-				title: "任何 #refinedstorage:crafting_monitor"
+				title: "任意 #refinedstorage:crafting_monitor"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -615,7 +615,7 @@
 			tasks: [{
 				id: "1FE2E385CB3F056A"
 				type: "item"
-				title: "任何 #refinedstorage:crafter_manager"
+				title: "任意 #refinedstorage:crafter_manager"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b

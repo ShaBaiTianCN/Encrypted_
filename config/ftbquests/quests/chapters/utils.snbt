@@ -17,7 +17,7 @@
 			tasks: [{
 				id: "04B47BC0F57CDF34"
 				type: "item"
-				title: "任何 #curios:angelring"
+				title: "任意 #curios:angelring"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -213,7 +213,7 @@
 			tasks: [{
 				id: "593E9B0E15957F9A"
 				type: "item"
-				title: "任何的挖掘小工具"
+				title: "任意的挖掘小工具"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b

@@ -17,7 +17,7 @@
 			tasks: [{
 				id: "49719695B7EA47E5"
 				type: "item"
-				title: "任何 #forge:chests/wooden"
+				title: "任意 #forge:chests/wooden"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -35,7 +35,7 @@
 			tasks: [{
 				id: "7720AFBBC94B573D"
 				type: "item"
-				title: "任何 #storagedrawers:drawers"
+				title: "任意 #storagedrawers:drawers"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -54,7 +54,7 @@
 			tasks: [{
 				id: "5C01B228DDAF3579"
 				type: "item"
-				title: "任何 #framedcompactdrawers:frame_triple"
+				title: "任意 #framedcompactdrawers:frame_triple"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
