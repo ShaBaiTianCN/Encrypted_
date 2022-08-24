@@ -74,9 +74,9 @@
 				"想要进入这个维度："
 				""
 				"1、放下方块并站在它的顶部"
-				"2、[潜行键 + 右键] 传送门方块"
+				"2、潜行键+右键传送门方块"
 				""
-				"享受你的假期 :D"
+				"享受你的假期:D"
 			]
 			dependencies: ["08A24DB287339185"]
 			id: "2F1DC91FBD57B516"
@@ -138,7 +138,7 @@
 		{
 			x: 1.0d
 			y: 0.5d
-			subtitle: "eyes from up above"
+			subtitle: "上下浮动的眼睛"
 			dependencies: ["40CA56CFA5D73AA2"]
 			id: "6CCCEFF4688CF8A7"
 			tasks: [{

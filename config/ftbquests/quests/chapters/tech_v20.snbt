@@ -3,7 +3,7 @@
 	group: "72F9B62EED0FC7BC"
 	order_index: 5
 	filename: "tech_v20"
-	title: "科技2.0"
+	title: "科技 2.0"
 	icon: "thermal:machine_frame"
 	subtitle: ["更多机器"]
 	default_quest_shape: ""

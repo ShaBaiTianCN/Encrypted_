@@ -206,7 +206,7 @@
 		{
 			x: 2.0d
 			y: -1.5d
-			subtitle: "挖矿，但是是给酷酷的孩子准备的 B)"
+			subtitle: "挖矿，但是是给酷酷的孩子准备的B)"
 			min_required_dependencies: 1
 			dependency_requirement: "one_started"
 			id: "64DDBD248F69C38F"

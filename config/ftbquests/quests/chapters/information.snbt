@@ -14,8 +14,8 @@
 			x: -0.75d
 			y: 0.0d
 			shape: "hexagon"
-			subtitle: "> Start_"
-			description: ["玩得开心 :D"]
+			subtitle: ">开始_"
+			description: ["玩得开心:D"]
 			dependencies: [
 				"7A3F27E8F5290BF4"
 				"6F096D3A1C21F9AC"
@@ -142,7 +142,7 @@
 			description: [
 				"1、生物在夜晚不会自然生成（但在诅咒之土上仍会生成）"
 				""
-				"2、加密物质可以通过 [潜行键 + 右键点击] 模拟块的方式获得"
+				"2、加密物质可以通过潜行右键模拟块的方式获得"
 				""
 				"3、FTB Ultimine已安装"
 				""
@@ -154,7 +154,7 @@
 			tasks: [{
 				id: "5AD258DEB7981FDE"
 				type: "checkmark"
-				title: "!"
+				title: "！"
 			}]
 			rewards: [{
 				id: "168BAB97CCD44DAC"

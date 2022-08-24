@@ -3,9 +3,9 @@
 	group: "72F9B62EED0FC7BC"
 	order_index: 0
 	filename: "from_nothing"
-	title: "From !Everything_"
+	title: "来自！所有_"
 	icon: "forbidden_arcanus:dark_matter"
-	subtitle: ["= From NOTHING_"]
+	subtitle: ["=来自虚无_"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
@@ -179,11 +179,11 @@
 			}]
 		}
 		{
-			title: "Crafting On the Go_"
+			title: "边走边合成_"
 			x: 7.5d
 			y: -2.0d
 			shape: "diamond"
-			description: ["现在你可以随时随地合成了 :D"]
+			description: ["现在你可以随时随地合成了:D"]
 			dependencies: ["4EEFF1FCAE0AE357"]
 			optional: true
 			id: "15B6A7D6E8B87006"
@@ -463,7 +463,7 @@
 		{
 			x: 4.5d
 			y: -0.5d
-			description: ["BUGS_ 可以用来侵扰叶子的代码，给你线"]
+			description: ["BUGS_可以用来侵扰叶子的代码，给你线"]
 			dependencies: ["1733BA05C8D58175"]
 			id: "024ADD6C420931C7"
 			tasks: [{
@@ -582,7 +582,7 @@
 		{
 			x: -3.0d
 			y: 1.0d
-			description: ["你可以通过空手 [潜行键 + 右键点击] 模拟块的方式获得加密物质"]
+			description: ["你可以通过空手（潜行+右键）模拟块的方式获得加密物质"]
 			dependencies: ["12B7956525612F15"]
 			size: 1.5d
 			id: "75A1BD24287BC82A"

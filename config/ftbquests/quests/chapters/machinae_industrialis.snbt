@@ -3,7 +3,7 @@
 	group: "72F9B62EED0FC7BC"
 	order_index: 4
 	filename: "machinae_industrialis"
-	title: "科技 v1.0"
+	title: "科技 1.0"
 	icon: "create:large_cogwheel"
 	subtitle: ["科技 1.0"]
 	default_quest_shape: "gear"
@@ -528,7 +528,7 @@
 		{
 			x: 10.5d
 			y: -2.5d
-			subtitle: "爆炸！（Blast brick，Blast意为爆炸）"
+			subtitle: "爆炸！"
 			dependencies: ["7468B2D29B7C9545"]
 			id: "22E6DA5CC6C42369"
 			tasks: [{
